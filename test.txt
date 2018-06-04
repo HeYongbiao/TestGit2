@@ -1,7 +1,0 @@
-test.txt
-
-:Author: rick
-:Email: rick@Rick-PC
-:Date: 2018-06-04 15:54
-
-This is a test file
