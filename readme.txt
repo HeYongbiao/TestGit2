@@ -11,4 +11,4 @@ git tracks changes
 create a new branch 'dev'
 editted in master
 editted in feature1
-fix a bug
+fix a bug and editted in feature2
